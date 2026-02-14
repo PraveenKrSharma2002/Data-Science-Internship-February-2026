@@ -1,111 +1,103 @@
 **🚀 Logic Building Task – 2 (Python)**
+
 *📌 Overview*
 
 This repository contains the second set of logic-building problems implemented in Python.
 The objective of this task is to strengthen problem-solving ability and deepen understanding of core programming concepts through real-world scenarios.
 
-This task focuses on:
+**This task focuses on:**
 
-Sets & dictionaries
+**Sets & dictionaries**
 
-Data filtering & counting
+**Data filtering & counting**
 
-String & list processing
+**String & list processing**
 
-Numerical analysis
+**Numerical analysis**
 
-Data validation techniques
+**Data validation techniques**
 
-These exercises simulate practical use cases found in real-world software systems.
+**These exercises simulate practical use cases found in real-world software systems.**
 
 **Problems Included**
-1️⃣ Unique Words in a Sentence
+
+**1️⃣ Unique Words in a Sentence**
 
 *Identifies unique words.*
 *Displays unique word count.*
 
-**🌍Use: NLP preprocessing & text analytics.**
+*🌍Use: NLP preprocessing & text analytics.*
 
 **2️⃣ Highest Salary Finder**
 
 *Finds employee with highest salary using a dictionary.*
 
-**🌍 Use: Payroll & HR management systems.**
+*🌍 Use: Payroll & HR management systems.*
 
-3️⃣ Find Maximum & Minimum Values
+**3️⃣ Find Maximum & Minimum Values**
 
-Determines largest and smallest numbers in a list.
+*Determines largest and smallest numbers in a list.*
 
-🌍 Use: Performance & data analysis.
+*🌍 Use: Performance & data analysis.*
 
-4️⃣ Count Products Above Price Threshold
+**4️⃣ Count Products Above Price Threshold**
 
-Counts products priced above 1000.
+*Counts products priced above 1000.*
 
-🌍 Use: E-commerce filtering & budget analysis.
+*🌍 Use: E-commerce filtering & budget analysis.*
 
-5️⃣ Attendance Percentage Calculator
+**5️⃣ Attendance Percentage Calculator**
 
-Calculates attendance percentage from "P" and "A".
+*Calculates attendance percentage from "P" and "A".*
 
-🌍 Use: HR & academic attendance systems.
+*🌍 Use: HR & academic attendance systems.*
 
-6️⃣ Remove Duplicate Phone Numbers
+**6️⃣ Remove Duplicate Phone Numbers**
 
-Removes duplicate entries using sets.
+*Removes duplicate entries using sets.*
 
-🌍 Use: CRM & contact management systems.
+*🌍 Use: CRM & contact management systems.*
 
-7️⃣ Character Frequency Counter
+**7️⃣ Character Frequency Counter**
 
-Counts occurrences of each character.
+*Counts occurrences of each character.*
 
-🌍 Use: Text analysis & password validation.
+*🌍 Use: Text analysis & password validation.*
 
-8️⃣ Convert List to Tuple
+**8️⃣ Convert List to Tuple**
 
-Converts list data into an immutable tuple.
+*Converts list data into an immutable tuple.*
 
-🌍 Use: Configuration & read-only data storage.
+*🌍 Use: Configuration & read-only data storage.*
 
-9️⃣ Check Key Existence in Dictionary
+**9️⃣ Check Key Existence in Dictionary**
 
-Verifies if a key exists.
+*Verifies if a key exists.*
 
-🌍 Use: User validation & configuration checks.
+*🌍 Use: User validation & configuration checks.*
 
-🔟 Calculate Average Marks
+**🔟 Calculate Average Marks**
 
-Computes average from a list of marks.
+*Computes average from a list of marks.*
 
-🌍 Use: Result processing & academic evaluation.
+*🌍 Use: Result processing & academic evaluation.*
 
-🛠 Technologies Used
+**🛠 Technologies Used**
 
-Python 3
-
+**Python 3
 Built-in data structures & functions
-
 set()
-
 tuple()
-
 max(), min(), sum()
-
 len(), count()
+dictionaries & loops**
 
-dictionaries & loops
+**🎯 Learning Outcomes**
 
-🎯 Learning Outcomes
+*After completing this task, I improved my ability to:*
 
-After completing this task, I improved my ability to:
-
-Work with sets & dictionaries
-
+**Work with sets & dictionaries
 Analyze and process textual data
-
 Perform numerical computations
-
 Handle duplicates & data validation
-
-Write efficient and clean Python code
+Write efficient and clean Python code**
